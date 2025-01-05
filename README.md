@@ -19,9 +19,9 @@ Se realizara un endpoint encargado de procesar toda la información del sistema.
 
 ##### Tecnologías y Lenguajes a usar:
 
-![Java](https://img.shields.io/badge/Java-17-red) 
+![Java](https://img.shields.io/badge/Java-23-red) 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-red)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.3-blue) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-blue) 
 ![Git](https://img.shields.io/badge/Git-2.34-blue)
 ![Postman](https://img.shields.io/badge/Postman-API-blue)
 ![JWT](https://img.shields.io/badge/JWT-Json%20Web%20Token-blue)
