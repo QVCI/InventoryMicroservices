@@ -8,10 +8,16 @@ Mediante el uso de SpringBoot y la exposición de un API Rest se generara un end
 
 Los lenguajes usados, serán denotados por color rojo y las técnologías por color azul.
 
-### Fase 1 (Creación de Backend)
+### Características Principales
+- CRUD de productos y control de inventario.
+- API REST diseñada para integrarse fácilmente con aplicaciones externas.
+- Uso de tokens JWT para autenticación y seguridad.
+- Registro y auditoría de actividades en el sistema.
+
+#### Fase 1 (Creación de Backend)
 Se realizara un endpoint encargado de procesar toda la información del sistema.
 
-#### Tecnologías y Lenguajes a usar:
+##### Tecnologías y Lenguajes a usar:
 
 ![Java](https://img.shields.io/badge/Java-17-red) 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-red)
